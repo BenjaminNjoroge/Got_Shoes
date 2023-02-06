@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966649320365",
+    "project_id": "gotshoes-fbebd",
+    "storage_bucket": "gotshoes-fbebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966649320365:android:17df41b860994369754724",
+        "android_client_info": {
+          "package_name": "com.webnetworksolution.gotshoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966649320365-sjoafv7qpk4eoian0tm1udt4739bbib2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webnetworksolution.gotshoes",
+            "certificate_hash": "c75c2c69168ccc4817d6b4243e0fdc5b7434a224"
+          }
+        },
+        {
+          "client_id": "966649320365-laknobl54ahr7obgeqmjn5pb7d475b9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPVunlpQmKcAopd9kDrpWB_qukNK6oUhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966649320365-laknobl54ahr7obgeqmjn5pb7d475b9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
